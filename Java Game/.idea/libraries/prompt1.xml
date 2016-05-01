@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prompt1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/prompt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
